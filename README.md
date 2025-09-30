@@ -117,9 +117,8 @@ Contributions are welcome! Please:
 - Streamlit for rapid app development
 - scikit‑learn for vectorization and similarity
 
-## License
-This project is licensed under the MIT License. See `LICENSE` if present, or include one in your fork.
 
 ---
 
 Questions or suggestions? Open an issue or reach out via GitHub.
+
